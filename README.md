@@ -4,4 +4,4 @@
 
 代码实现主要参考自[项目](https://github.com/fengdu78/lihang-code)
 
-具体学习笔记可参考作者的[个人网站](xiaotan.tech)
+具体学习笔记可参考作者的[个人网站](http://xiaotan.tech)
